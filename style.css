@@ -46,18 +46,18 @@
         display: none;
     }
     .textresponsive{
-        font-size: 65px;
+        font-size: 60px;
        margin-top: 40%;
     }
     .sub{
-        font-size: 10px;
+        font-size: 11px;
         margin-bottom: 30%;
     }
     .smallscren{
         display: block;
     }
     .th{
-        font-size: 20px;
+        font-size: 30px;
     }
    
 }
@@ -103,8 +103,8 @@
 @media (max-width:567px) {
 
     .techcard{
-        width: 140px;
-        height: 150px;
+        width: 121px;
+        height: 140px;
         background-color: rgb(0, 0, 0);
         
      }
@@ -113,28 +113,7 @@
         width: 100% ;
         
     }
-    .projectcard{
-       
-       background-color: rgb(0, 0, 0); 
-       border-radius: 5px;
-       text-align: center;
-       font-family: 'Titillium Web', sans-serif;
-       width: 200px;
-       margin-bottom: 20px;
-       padding: 10px;
-       color: white;
-    
-    }
-    .proimg{
-       width: 100%;
-        border: 1px solid rgb(0, 0, 0);
-        border-radius: 5px;
-        margin-bottom: 10px;
-        overflow: hidden;
-        border: 5px solid black;
-        animation: btn 2s linear infinite;
-
-    }
+   
    
     
 }
@@ -215,6 +194,18 @@ flex-wrap: wrap;
     #About{
         height: 10px;
     }
+    .projectcard{
+       
+        background-color: rgb(0, 0, 0); 
+        border-radius: 5px;
+        text-align: center;
+        font-family: 'Titillium Web', sans-serif;
+        width: 290px;
+        margin-bottom: 20px;
+        padding: 10px;
+        color: white;
+     
+     }
    
 }
 
@@ -238,3 +229,4 @@ flex-wrap: wrap;
     color: white;
     text-align: center;
 }
+
