@@ -230,3 +230,6 @@ flex-wrap: wrap;
     text-align: center;
 }
 
+.texthilight:hover{
+    background-color: gray;
+}
