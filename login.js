@@ -51,7 +51,7 @@ if (loginvalue.value != "") {
 // redirect
 submit.addEventListener("click",function (){
 if (loginvalue.value =="admin" && password.value =="admin") {
-    window.location.href=""
+    window.location.href="portfolio.html"
 }
 
 })
